@@ -1,8 +1,8 @@
 # IBCL sklearn Tutorial
 
-This document aims to give a brief tutorial to share some of the methods I learned during Professor Andrew Delong's course: COMP6321 (Machine Learning)
+This document aims to give a brief tutorial to share some of the methods I learned during Professor Andrew Delong's course: COMP6321 (Machine Learning). The jupyter notebook covers the following.
 * Part 1 — Default Models, Dummy Classifiers, and Cross Validation
-* Part 2 — Hyperparmeter tuning using random search
+* Part 2 — Hyperparameter tuning using random search
 * Part 3 — Sklearn Pipeline
 * Part 4 — Custom Classifiers and Estimators
 
