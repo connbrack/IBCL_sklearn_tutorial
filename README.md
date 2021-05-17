@@ -1,8 +1,8 @@
 # IBCL sklearn Tutorial
 
-This document aims to give a brief tutorial to share some of the methods learned during Professor Andrew Delong's course: COMP6321 (Machine Learning) offered at Concordia University. It is loosly based off of the final assignment for the course, reprogrammed and conducted on a more buidling related problem.
+This document aims to give a brief tutorial to share some of the methods learned during Professor Andrew Delong's course: COMP6321 (Machine Learning) offered at Concordia University. It is loosly based off lessons learned from the final assignment for the course, reprogrammed and conducted on a more buidling related problem.
 
-*** Note originally created for internal use/discussion. I am not an expert on this content, and there may be conventions missing from this document.
+*** Note originally created for internal use/discussion with the IBCL team. I am not an expert on this content, and there may be conventions missing from this document.
 
 The jupyter notebook covers the following.
 * Part 1 — Default Models, Dummy Classifiers, and Cross Validation
