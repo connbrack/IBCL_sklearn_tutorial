@@ -1,0 +1,1 @@
+Download all data from: https://www.kaggle.com/c/ashrae-energy-prediction/data and place in this folder.
