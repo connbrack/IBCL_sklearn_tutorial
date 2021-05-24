@@ -8,7 +8,7 @@ The jupyter notebook covers the following.
 * Part 1 — Default Models, Dummy Classifiers, and Cross Validation
 * Part 2 — Hyperparameter tuning using random search
 * Part 3 — Sklearn Pipeline
-* Part 4 — Custom Classifiers and Estimators
+* Part 4 — Custom Transfomers and Estimators
 
 To use:
 Get data from: https://www.kaggle.com/c/ashrae-energy-prediction/data. Download all files and put in a folder called data.
